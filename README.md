@@ -1,5 +1,5 @@
 <div class="bg-gray-dark">
-  ### Hi there 👋
+  Hi there 👋
 
 - 🔭 I’m currently working with Publicis Sapient
 - 🌱 I’m currently learning PHP
