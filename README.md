@@ -2,7 +2,7 @@
   
   Hi there 👋
 
-- 🏢 I’m currently working as a cofounder at Thenextmove Electronics.
+- 🏢 I’m currently working as a cofounder at The Next Move Electronics(TNM Electronics).
 - 🌱 I’m currently learning Flutter.
 - 🤔 I’m looking for innovate people in Smart Home Domain.
 - 💬 Ask me about Flutter, Arduino, PCB Designing, Embedded technology, Mqtt, Lambda, Kafka, 3D Printing/Designing, Product Designing & IOT.
