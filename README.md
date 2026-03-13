@@ -1,15 +1,46 @@
 <div class="bg-gray-dark">
   
-Software engineer specializing in ML systems, distributed infrastructure, and real-time autonomy — I write the code that makes AI actually run in production -- above all I like to solve difficult problems!
+## Hi, I'm Vikhyat 👋
 
-At Virginia Tech (NSF-funded), I'm building neuroscience-inspired software for autonomous UAVs — a deadline-aware MoE planner in ROS 2/Python/C++ that hit zero p100 deadline violations across 1,000 simulations, cutting latency and compute energy 13% each under hard SLA constraints.
+I build systems that have to work in the real world.
 
-At GE HealthCare, I shipped FDA-regulated ML inference pipelines for MRI: migrated a C++ monolith to Kubernetes microservices (80% faster deployments), integrated TensorRT-optimized transformers for a 20% throughput gain, and wrote federated learning workflows in Python that eliminated centralized patient data transfers entirely. Earned the GE Impact Award for the effort.
+Currently finishing my M.S. at Virginia Tech working on **Conflict Architecture (CA)** — a brain-inspired framework for autonomous UAV decision systems designed to reduce mission latency and energy consumption.
 
-Earlier, I was the sole engineer at a seed-stage IoT startup — architected an AWS platform (EC2, Lambda, RabbitMQ, MQTT) from scratch, sustained 99.9% uptime across 100+ devices, and shipped a patented embedded communication system that cut hardware cost by 80%.
+Before graduate school, I spent two years at GE HealthCare building **real-time MRI software on FDA-regulated hardware**, where reliability and production systems mattered more than clever demos.
 
+Outside of research, I build **AI/ML systems from scratch**, including:
+- Retrieval Augmented Generation (RAG) pipelines
+- LLM tooling and infrastructure
+- experimental ML models and system architectures
 
-Finishing my MS at Virginia Tech (May 2026). Looking for roles in ML infrastructure, robotics, or clinical AI — reach me at vikhyat.chauhan@gmail.com.
+Patent holder • 4.0 GPA
+
+---
+
+### Areas I enjoy working in
+
+- Autonomous Systems
+- AI / Machine Learning
+- LLM Systems & RAG
+- Distributed Systems
+- Robotics & Embedded Software
+- Real-time software
+
+---
+
+### Current Work
+
+- Brain-Inspired Conflict Architecture for UAVs
+- Experimental AI system design
+- Personal RAG knowledge systems
+
+---
+
+### Connect
+
+Portfolio: vikhyatchauhan.com  
+LinkedIn: linkedin.com/in/vikhyat-chauhan/
+Email: vikhyat.chauhan@gmail.com
 
 </div>
 
