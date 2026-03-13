@@ -2,39 +2,16 @@
   
 ## Hi, I'm Vikhyat 👋
 
-I build systems that have to work in the real world.
+AI/ML and systems engineer focused on building real-world systems.
 
-Currently finishing my M.S. at Virginia Tech working on **Conflict Architecture (CA)** — a brain-inspired framework for autonomous UAV decision systems designed to reduce mission latency and energy consumption.
+Currently completing my M.S. at Virginia Tech, researching **Conflict Architecture (CA)** — a brain-inspired framework for autonomous UAV decision systems that reduces mission latency and energy consumption.
 
-Before graduate school, I spent two years at GE HealthCare building **real-time MRI software on FDA-regulated hardware**, where reliability and production systems mattered more than clever demos.
+Previously built **real-time MRI software at GE HealthCare** for FDA-regulated hardware.
 
-Outside of research, I build **AI/ML systems from scratch**, including:
-- Retrieval Augmented Generation (RAG) pipelines
-- LLM tooling and infrastructure
-- experimental ML models and system architectures
+I also experiment with **LLMs, RAG pipelines, and ML systems built from scratch** to understand how these models actually work.
 
-Patent holder • 4.0 GPA
-
----
-
-### Areas I enjoy working in
-
-- Autonomous Systems
-- AI / Machine Learning
-- LLM Systems & RAG
-- Distributed Systems
-- Robotics & Embedded Software
-- Real-time software
-
----
-
-### Current Work
-
-- Brain-Inspired Conflict Architecture for UAVs
-- Experimental AI system design
-- Personal RAG knowledge systems
-
----
+Patent holder • 4.0 GPA  
+Interested in AI/ML, autonomous systems, robotics, and distributed systems.
 
 ### Connect
 
