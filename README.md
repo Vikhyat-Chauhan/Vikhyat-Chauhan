@@ -1,19 +1,16 @@
-<div class="bg-gray-dark">
-  
-## Hi, I'm Vikhyat 👋
+## Vikhyat Chauhan — AI/ML Engineer
 
-AI/ML and systems engineer focused on building real-world systems.
+Production ML in FDA-regulated medical imaging (GE HealthCare) + M.S. research on
+brain-inspired autonomous systems (Virginia Tech, 4.0 GPA). Immediate U.S. work authorization.
 
-Currently completing my M.S. at Virginia Tech, defending my thesis on **Conflict Architecture (CA)** — a brain-inspired framework for autonomous UAV decision systems that reduces mission latency and energy consumption.
+**What I've shipped:**
+- TensorRT-optimized Swin Transformer UNETR for MRI segmentation — ~20% throughput gain in production
+- Migrated monolithic MR image stitching pipeline to containerized microservices (Docker · K8s · IEC 62304)
+- Brain-inspired UAV navigation framework: 34.5% latency reduction, zero deadline violations across 1,000 runs
+- Two-stage RAG pipeline with BGE embeddings + cross-encoder reranking, live at vikhyatchauhan.com
 
-Previously built **real-time MRI software at GE HealthCare** for FDA-regulated hardware.
+**Active builds:** Medical Imaging inference API · LoRA fine-tune on RTX 5060 Ti · LangGraph multi-agent RAG
 
-I also experiment with **LLMs, RAG pipelines, and ML systems built from scratch** to understand how these models actually work.
+Patent holder · IEEE Transactions on Computers (in progress with Dr. JoAnn M. Paul, Virginia Tech)
 
-Patent holder • 4.0 GPA  
-Interested in AI/ML, autonomous systems, robotics, and distributed systems.
-</div>
-
-
-
-
+`TensorRT` `CUDA` `PyTorch` `ROS 2` `LangChain` `FastAPI` `Docker` `Kubernetes`
