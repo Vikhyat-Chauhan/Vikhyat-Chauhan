@@ -6,7 +6,7 @@ authorized (STEM OPT — no sponsorship needed to start).
 
 ### What I've shipped (live)
 
-- **[ProfessionalRAG](https://github.com/Vikhyat-Chauhan/ProfessionalRAG)** — production RAG service: two-stage retrieval (BGE embeddings → cross-encoder rerank over Pinecone), Claude generation, LLM-as-judge evals (Hit@K, MRR), and per-query cost/latency telemetry. Built from scratch, no LangChain. → **[live demo](https://vikhyatchauhan.com/chat)**
+- **[ProfessionalRAG](https://github.com/Vikhyat-Chauhan/ProfessionalRAG)** — production RAG service: two-stage retrieval (BGE embeddings → cross-encoder rerank over Pinecone), Claude generation, LLM-as-judge evals (Hit@K, MRR), and per-query cost/latency telemetry. Built from scratch, no LangChain. → **[live demo](https://vikhyatchauhan.com)**
 - **[Hearth](https://github.com/Vikhyat-Chauhan/Hearth)** — full-stack shared-household app: Next.js/TypeScript, React, Supabase/Postgres, Drizzle ORM, two-way Google Calendar sync, deployed on Vercel. → **[live](https://hearth.tnmlabs.com)**
 - **[ats-agent](https://github.com/Vikhyat-Chauhan/ats-agent)** — a LangGraph agent that autonomously fills job-application forms across Workday, iCIMS, Greenhouse, and Lever (LangGraph · Browser Use · Playwright).
 
