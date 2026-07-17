@@ -1,8 +1,7 @@
 ## Vikhyat Chauhan — Applied AI & Software Engineer
 
 I build production AI systems and the software they run on — RAG, agents, and the backend
-microservices behind them. M.S. Computer Engineering, Virginia Tech (4.0). U.S. work
-authorized (STEM OPT — no sponsorship needed to start).
+microservices behind them. M.S. Computer Engineering, Virginia Tech.
 
 ### What I've shipped (live)
 
@@ -18,4 +17,4 @@ authorized (STEM OPT — no sponsorship needed to start).
 
 `Python` · `RAG` · `LLMs` · `LangGraph` · `Fine-tuning (QLoRA)` · `FHIR` · `FastAPI` · `Pinecone` · `TypeScript` · `Next.js` · `React` · `Docker` · `Kubernetes` · `AWS`
 
-📍 Virginia, USA · ✉️ vikhyat.chauhan@gmail.com · 🔗 [vikhyatchauhan.com](https://www.vikhyatchauhan.com) · [LinkedIn](https://www.linkedin.com/in/vikhyat-chauhan)
+✉️ vikhyat.chauhan@gmail.com · 🔗 [vikhyatchauhan.com](https://www.vikhyatchauhan.com) · [LinkedIn](https://www.linkedin.com/in/vikhyat-chauhan)
