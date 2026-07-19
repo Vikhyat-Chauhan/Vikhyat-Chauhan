@@ -15,6 +15,6 @@ microservices behind them. M.S. Computer Engineering, Virginia Tech.
 - **Founder, 0→1** — bootstrapped a hardware startup: patented a microcontroller communication protocol, built an AWS/MQTT backend scaling 0 → 1,000+ devices at 99.9% uptime, shipped to 100+ homes.
 - **M.S. thesis (NSF-funded)** — brain-inspired autonomous-navigation framework: 34.6% compute-energy reduction with zero deadline violations across 1,000 runs (p < 0.0001).
 
-`Python` · `RAG` · `LLMs` · `LangGraph` · `Fine-tuning (QLoRA)` · `FHIR` · `FastAPI` · `Pinecone` · `TypeScript` · `Next.js` · `React` · `Docker` · `Kubernetes` · `AWS`
+`Python` · `RAG` · `LLMs` · `LangGraph` · `Fine-tuning (QLoRA)` · `FHIR` · `FastAPI` · `Pinecone` · `TypeScript` · `Next.js` · `Microservices` · `Docker` · `Kubernetes` · `AWS`
 
 ✉️ vikhyat.chauhan@gmail.com · 🔗 [vikhyatchauhan.com](https://www.vikhyatchauhan.com) · [LinkedIn](https://www.linkedin.com/in/vikhyat-chauhan)
