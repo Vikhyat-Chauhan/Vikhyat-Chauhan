@@ -1,4 +1,4 @@
-## Vikhyat Chauhan — Applied AI & Software Engineer
+## Vikhyat Chauhan — Backed + AI Software Engineer 
 
 I build production AI systems and the software they run on — RAG, agents, and the backend
 microservices behind them. M.S. Computer Engineering, Virginia Tech.
